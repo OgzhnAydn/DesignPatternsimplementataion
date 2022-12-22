@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AdapterDesign/AdapterDesign.iml" filepath="$PROJECT_DIR$/AdapterDesign/AdapterDesign.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BuilderDesign/BuilderDesign.iml" filepath="$PROJECT_DIR$/BuilderDesign/BuilderDesign.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CompositePattern/CompositePattern.iml" filepath="$PROJECT_DIR$/CompositePattern/CompositePattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FactoryDesign/FactoryDesign.iml" filepath="$PROJECT_DIR$/FactoryDesign/FactoryDesign.iml" />
+      <module fileurl="file://$PROJECT_DIR$/designPatterns.iml" filepath="$PROJECT_DIR$/designPatterns.iml" />
+    </modules>
+  </component>
+</project>
